@@ -1,6 +1,5 @@
 # The Emotion 300 Project: An Emotion Classification Messaging App w/ P300 Speller
 
-https://user-images.githubusercontent.com/69090449/129691013-6144dbd2-fd52-4590-812b-3717bce19e68.mp4
 
 ## TLDR. OF SOLUTION.
 
